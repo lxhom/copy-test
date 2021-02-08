@@ -1,4 +1,4 @@
-[copy something](https://lxhom.github.io/copy-test?text%2Fhtml)
+[copy something](https://lxhom.github.io/copy-test?text%2Fhtml) (check your clipboard after clicking on this)
 
 <details><summary></summary>
 This is the secret JS section, shhh! 🤫<br>
